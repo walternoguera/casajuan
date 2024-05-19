@@ -1,6 +1,6 @@
 # Sistemas de gestión para **restaurante** + Web corporativa
 
-Este repositorio contiene una variedad de proyectos relacionados con el contenido web y la creación de aplicaciones utilizando tecnologías como **Java**, **MySQL**, **PHP**, **HTML** y **CSS**. Adaptándolo a la necesidad del cliente **Casa Juan**.
+Este repositorio contiene dos proyectos finales de curso, relacionados con el contenido web y la creación de aplicaciones utilizando tecnologías como **Java**, **MySQL**, **PHP**, **HTML** y **CSS**. Adaptándolo a la necesidad del cliente **Casa Juan**.
 A continuación se describen los proyectos disponibles:
 
 ## Proyectos
