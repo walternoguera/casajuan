@@ -1,2 +1,0 @@
-# sathe
-Proyecto de Navidad
